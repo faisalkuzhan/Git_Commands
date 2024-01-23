@@ -1,3 +1,2 @@
 echo "I WILL BEING DEVOPS ENGINEER FROM ZERO TO HERO IN 90 DAYS"
-echo "added new line here"
-echo "Every day is a fresh start!!"
+echo "Evey day is a fresh start"
